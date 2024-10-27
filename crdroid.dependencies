@@ -9,7 +9,8 @@
     "target_path": "vendor/xiaomi/stone"
   },
   {
-    "repository": "crdroidandroid/android_kernel_xiaomi_stone",
-    "target_path": "device/xiaomi/stone-kernel"
+    "repository": "crdroidandroid/android_kernel_xiaomi_sm6375",
+    "target_path": "kernel/xiaomi/sm6375",
+    "branch": "14.0"
   }
 ]
